@@ -3,6 +3,7 @@
 ## IoT Security
 
 - [mmEcho: A mmWave-based Acoustic Eavesdropping Method](papers/mmEcho.pdf), Oakland'23
+- [NFChain: A Practical Fingerprinting Scheme for NFC Tag Authentication](papers/NFChain.pdf), INFOCOM'23
 - [Towards System-Level Security Analysis of IoT Using Attack Graphs](papers/Towards_System-Level_Security_Analysis_of_IoT_Using_Attack_Graphs.pdf), TMC'22
 - [Towards Unconstrained Vocabulary Eavesdropping With Mmwave Radar Using GAN](papers/Towards_Unconstrained_Vocabulary_Eavesdropping_With_Mmwave_Radar_Using_GAN.pdf), TMC'23
 - [Reinforcement learning based adversarial malware example generation against black-box detectors](papers/Reinforcement%20Learning%20based%20Adversarial%20Malware%20Example%20Generation%20against%20Black-box%20Detectors.pdf), Computers & Security'22
