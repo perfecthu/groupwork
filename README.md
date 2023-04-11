@@ -18,3 +18,11 @@
 Collaborative Inference](papers/Ginger_TheWebConf_2023.pdf), WWW'23
 - [Model Poisoning Attack on Neural Network without Reference Data](papers/Model_Poisoning.pdf), TC (under major revision)
 
+## Data Privacy
+
+- [Federated Learning Hyper-Parameter Tuning From A System Perspective](papers/FedTune_IoTJ_2023.pdf), IoT-J'23
+
+## Data Efficiency
+
+- [Spectroscopy Approaches for Food Safety Applications: Improving Data Efficiency Using Active Learning and Semi-Supervised Learning](papers/food_Frontiers_2022.pdf), frontiers in AI'22
+- [MASTAF: A Model-Agnostic Spatio-Temporal Attention Fusion Network for Few-shot Video Classification](papers/MASTAF_A_Model-Agnostic_Spatio-Temporal_Attention_Fusion_Network_for_Few-shot_Video_Classification.pdf), WACV'22
