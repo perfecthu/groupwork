@@ -11,6 +11,7 @@
 - [Milliear: Millimeter-wave acoustic eavesdropping with unconstrained vocabulary](papers/MILLIEAR_Millimeter-wave_Acoustic_Eavesdropping_with_Unconstrained_Vocabulary.pdf), INFOCOM'22
 - [Iotgaze: Iot security enforcement via wireless context analysis](papers/IoTGaze_IoT_Security_Enforcement_via_Wireless_Context_Analysis.pdf), INFOCOM'20
 - [Towards automatic detection of nonfunctional sensitive transmissions in mobile applications](papers/Towards_Automatic_Detection_of_Nonfunctional_Sensitive_Transmissions_in_Mobile_Applications.pdf), TMC'20
+- [NFChain: A Practical Fingerprinting Scheme for NFC Tag Authentication](papers/NFChain.pdf), INFOCOM'23
 
 ---
 
