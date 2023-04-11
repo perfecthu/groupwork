@@ -38,3 +38,14 @@
 - [CloudChain: A Cloud Blockchain Using Shared Memory Consensus and RDMA](papers/CloudChain_A_Cloud_Blockchain_Using_Shared_Memory_Consensus_and_RDMA.pdf), TC'22
 - [wChain: A Fast Fault-Tolerant Blockchain Protocol for Multihop Wireless Networks](papers/wChain_A_Fast_Fault-Tolerant_Blockchain_Protocol_for_Multihop_Wireless_Networks.pdf), TWC'21
 
+---
+
+## Embedded System Security
+
+- [Predictable Virtualization on Memory Protection Unit-based Microcontrollers](papers/pan18mpu.pdf), RTAS'18
+- [MxU: Towards Predictable, Flexible, and Efficient Memory Access Control for the Secure IoT](papers/pan19mxu.pdf), EMSOFT'19
+- [Practical Principle of Least Privilege for Secure Embedded Systems](papers/pan21principle.pdf), RTAS'21
+- [SBIs: Application Access to Safe, Baremetal Interrupt Latencies](papers/pan22sbi.pdf), RTAS'22
+
+
+
